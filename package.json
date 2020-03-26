@@ -1,22 +1,27 @@
 {
-  "name": "react-native-hinodi-components",
-  "version": "1.0.0",
-  "description": "Common components for React Native project",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "react-native",
-    "components",
-    "mobile",
-    "ios",
-    "android",
-    "ui"
-  ],
-  "author": "hinodi",
-  "license": "ISC",
-  "peerDependencies": {
-    "react-native": "0.61.5"
-  }
+    "name": "react-native-hinodi-components",
+    "version": "1.0.1",
+    "description": "Common components for React Native project",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/hinodi/react-native-hinodi-components"
+    },
+    "keywords": [
+        "react-native",
+        "components",
+        "mobile",
+        "ios",
+        "android",
+        "ui"
+    ],
+    "author": "hinodi",
+    "license": "ISC",
+    "homepage": "https://github.com/hinodi/react-native-hinodi-components#readme",
+    "peerDependencies": {
+        "react-native": "0.61.5"
+    }
 }

@@ -1,3 +1,3 @@
-import DebounceTouchable from "./components/DebounceTouchable";
+import DebounceTouchable from './components/DebounceTouchable';
 
 export { DebounceTouchable };
