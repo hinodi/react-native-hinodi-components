@@ -1,0 +1,22 @@
+{
+  "name": "react-native-hinodi-components",
+  "version": "1.0.0",
+  "description": "Common components for React Native project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "components",
+    "mobile",
+    "ios",
+    "android",
+    "ui"
+  ],
+  "author": "hinodi",
+  "license": "ISC",
+  "peerDependencies": {
+    "react-native": "0.61.5"
+  }
+}
