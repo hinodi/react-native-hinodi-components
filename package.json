@@ -1,6 +1,6 @@
 {
     "name": "react-native-hinodi-components",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "Common components for React Native project",
     "main": "index.js",
     "scripts": {
@@ -19,7 +19,7 @@
         "ui"
     ],
     "author": "hinodi",
-    "license": "ISC",
+    "license": "MIT",
     "homepage": "https://github.com/hinodi/react-native-hinodi-components#readme",
     "peerDependencies": {
         "react-native": "0.61.5"
