@@ -10,15 +10,7 @@ React Native common components for iOS + Android
 
 ### [DebounceTouchable]
 
-## Installation
-
-`yarn add react-native-hinodi-components`
-
-or
-
-`npm install react-native-hinodi-components`
-
-### Debounce Touchable in React Native
+![](https://media.giphy.com/media/TKk0XIJDVyqxhB3OKQ/giphy.gif)
 
 ## DebounceTouchable
 
@@ -38,6 +30,14 @@ import { DebounceTouchable } from 'react-native-hinodi-components';
 | waitTime | Delay in ms, from latest onPress                                            | Number |          |      300      |
 | children | The children to render inside this component                                | Node   |          |    `null`     |
 | style    | The custom styling which will be applied to the container of the `children` | Style  |          |    `null`     |
+
+## Installation
+
+`yarn add react-native-hinodi-components`
+
+or
+
+`npm install react-native-hinodi-components`
 
 ## Author
 
