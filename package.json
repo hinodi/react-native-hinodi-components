@@ -1,6 +1,6 @@
 {
     "name": "react-native-hinodi-components",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Common components for React Native project",
     "main": "index.js",
     "scripts": {
