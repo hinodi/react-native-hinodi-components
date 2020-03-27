@@ -12,11 +12,11 @@ React Native common components for iOS + Android
 
 ## Installation
 
-`yarn add react-native-progress-circle`
+`yarn add react-native-hinodi-components`
 
 or
 
-`npm install --save react-native-progress-circle`
+`npm install react-native-hinodi-components`
 
 ### Debounce Touchable in React Native
 
